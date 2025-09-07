@@ -1,2 +1,2 @@
 # STM32_first
-This repo has all the files of my first PCB using STM32.
+This repository is related to my first PCB project using STM32 in KiCAD and my first experience with GitHub. 
